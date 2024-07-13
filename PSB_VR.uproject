@@ -48,6 +48,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "promethean",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
