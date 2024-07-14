@@ -51,7 +51,7 @@
 		},
 		{
 			"Name": "promethean",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
